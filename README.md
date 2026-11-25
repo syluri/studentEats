@@ -7,7 +7,8 @@ i oceniania dań.
 - Karolina Z.
 - Karolina T. 
 - Igor Z.
-Grupa laboratoryjna: GL04
+
+### Grupa laboratoryjna: GL04
 
 ## Technologia
 Kotlin, JetpackCompose, Android Studio (wersja: 2026.2.2), minSdk: 24
